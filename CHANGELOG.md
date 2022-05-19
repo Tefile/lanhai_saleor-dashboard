@@ -4,6 +4,7 @@ All notable, unreleased changes to this project will be documented in this file.
 
 ## [Unreleased]
 - Added links instead of imperative navigation with onClick - #1969 by @taniotanio7
+- Fixed EditorJS integration in RichTextEditor input - #2052 by @witoszekdev
 
 ## 3.1
 ### PREVIEW FEATURES
